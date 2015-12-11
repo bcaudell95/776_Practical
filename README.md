@@ -1,5 +1,6 @@
 # 776_Practical 
 Sudoku Solver in Haskell
+
 First attempt used pencil-and-paper algorithms to solve puzzles.
 Using two simple algorithms, it was able to solve easy puzzles, but nothing more difficult.
 
